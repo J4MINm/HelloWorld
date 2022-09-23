@@ -1,5 +1,5 @@
-# HelloWorld
-#TeamSherpa Launch-X-LATAM
+# PROJECS_JAVA
+# TeamSherpa Launch-X-LATAM
 
-Autor: EV3TH
-Facebook: https://www.facebook.com/EV3TH
+Repo for my projecs to java
+By: EV3TH
